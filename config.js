@@ -1,5 +1,5 @@
 /**
-   * Create By THE JO BOT
+   * Create By 𝐓𝐇𝐄 𝐃𝐄𝐍𝐍 𝐁𝐎𝐓
    * Base by Dika Ardnt
 */
 
@@ -17,15 +17,15 @@ global.APIKeys = {
 }
 
 
-global.ownername = 'THE JO BOT'
+global.ownername = '𝐃𝐞𝐧𝐧𝐓𝐳𝐲𝐲'
 global.autorecording = false //status auto merekam ( auto record )
 global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 // Other
-global.owner = ['60177426853','60177426853','60177426853']
-global.premium = ['60177426853']
-global.packname = 'The Jo Bot'
-global.author = 'WhatsApp Bot'
+global.owner = ['6281991134619','6281991134619','6281991134619']
+global.premium = ['6281991134619']
+global.packname = 'DennMods'
+global.author = 'DENN MODS OFC'
 global.wlcm = []
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
